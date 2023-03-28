@@ -24,7 +24,7 @@ const Navbar = () => {
             className="inline-flex items-center"
           >
             <span className="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">
-            Training <span className="text-teal-500 border-2 rounded p-1"> Online</span>  
+            Job <span className="text-teal-500 border-2 rounded p-1"> Mission</span>  
             </span>
           </Link>
           <ul className="items-center hidden space-x-8 lg:flex">
