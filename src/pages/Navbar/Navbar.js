@@ -43,17 +43,9 @@ const Navbar = () => {
                 to="/blog"
                 aria-label="Our product"
                 title="Our product"
-                className="mr-8 font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                className=" font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
               About
-              </Link>
-              <Link
-                to="/blog"
-                aria-label="Our product"
-                title="Our product"
-                className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
-              >
-              Courses
               </Link>
             </li>
             <li>
@@ -169,16 +161,6 @@ const Navbar = () => {
                   </div>
                   <nav className="">
                     <ul className="space-y-4">
-                      <li>
-                        <Link
-                          to="/courses"
-                          aria-label="Our product"
-                          title="Our product"
-                          className="font-medium tracking-wide text-gray-700 transition-colors duration-200 "
-                        >
-                          Courses
-                        </Link>
-                      </li>
                       <li>
                         <Link
                           to=""
