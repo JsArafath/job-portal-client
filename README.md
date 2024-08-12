@@ -2,8 +2,8 @@
 ## Live Site: https://training-tutor.web.app/
 
 
-This is a responsive  site. 
-So, Everyone can use it with any devices.
+This is a responsive  site.
+So everyone can use it on any device.
 
 
 ## To make this website technologies use.....
